@@ -1,0 +1,14 @@
+{
+    "name": "abort_r2_uploads",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "keywords": [],
+    "author": "geekMus",
+    "dependencies": {
+        "@aws-sdk/client-s3": "^3.947.0"
+    }
+}
